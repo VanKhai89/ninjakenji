@@ -1,4 +1,4 @@
-Ninja Kenji
+**Ninja Kenji**
 
 **Privacy Policy**
 
