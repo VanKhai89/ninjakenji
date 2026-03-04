@@ -58,4 +58,4 @@ This policy is effective as of 01-01-2025
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy.
+If you have any questions or suggestions about our Privacy Policy, please contact us at daohaiha889@gmail.com
