@@ -2,13 +2,13 @@
 
 **Privacy Policy**
 
-This Privacy Policy describes the policies and procedures of Yen Bai Portal (“we,” “our,” or “us”) pertaining to the collection, use, and disclosure of your information on the "DVCLC".
+This Privacy Policy describes the policies and procedures of Yen Bai Portal (“we,” “our,” or “us”) pertaining to the collection, use, and disclosure of your information on the "Ninja Kenji".
 
-We don’t charge you to use "DVCLC". By using our Products, you agree that we can collect your personal data, such as your phone number or email address. We use your personal data for providing and improving the Service.
+We don’t charge you to use "Ninja Kenji". By using our Products, you agree that we can collect your personal data, such as your phone number or email address. We use your personal data for providing and improving the Service.
 
-Your privacy is important to us. At "DVCLC", We don’t sell your personal data to advertisers, and we don’t share information that directly identifies you (such as your name, email address or other contact information) with advertisers unless you give us specific permission.
+Your privacy is important to us. At "Ninja Kenji", We don’t sell your personal data to advertisers, and we don’t share information that directly identifies you (such as your name, email address or other contact information) with advertisers unless you give us specific permission.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at "DVCLC" unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at "Ninja Kenji" unless otherwise defined in this Privacy Policy.
 
 Our Privacy Policy explains how we collect and use your personal data to provide all of the services described below.
 
@@ -36,7 +36,7 @@ How much of this information we collect depends on the type and settings of the 
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices.
 
-"DVCLC" does not use these “cookies” explicitly. However, if you use the Third Party Services, you first have to accept their specific terms and conditions.This includes their cookie policies, which we have no control over. But if you do not use these services, no third-party cookies are installed on your device.
+"Ninja Kenji" does not use these “cookies” explicitly. However, if you use the Third Party Services, you first have to accept their specific terms and conditions.This includes their cookie policies, which we have no control over. But if you do not use these services, no third-party cookies are installed on your device.
 
 **Security**
 
