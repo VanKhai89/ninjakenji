@@ -1,61 +1,108 @@
-**Ninja Kenji**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninja Kenji - Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f6f8;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        footer {
+            margin-top: 30px;
+            padding-top: 15px;
+            border-top: 1px solid #ddd;
+            font-size: 14px;
+            color: #555;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
 
-**Privacy Policy**
+<div class="container">
+    <h1>Ninja Kenji</h1>
+    <div class="subtitle">Privacy Policy</div>
 
-This Privacy Policy describes the policies and procedures of Yen Bai Portal (“we,” “our,” or “us”) pertaining to the collection, use, and disclosure of your information on the "Ninja Kenji".
+    <p>This Privacy Policy explains how <strong>Ninja Kenji</strong> ("we", "our", or "us") collects, uses, and protects your information when you use the Ninja Kenji mobile application.</p>
 
-We don’t charge you to use "Ninja Kenji". By using our Products, you agree that we can collect your personal data, such as your phone number or email address. We use your personal data for providing and improving the Service.
+    <p>We provide this Service free of charge. By using the app, you agree to the collection and use of information in accordance with this policy.</p>
 
-Your privacy is important to us. At "Ninja Kenji", We don’t sell your personal data to advertisers, and we don’t share information that directly identifies you (such as your name, email address or other contact information) with advertisers unless you give us specific permission.
+    <h2>Information Collection and Use</h2>
+    <p>For a better experience, we may require you to provide certain personally identifiable information, such as your email address or phone number. This information will be used to provide and improve our Service.</p>
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at "Ninja Kenji" unless otherwise defined in this Privacy Policy.
+    <h2>Log Data</h2>
+    <p>When you use our app, we may collect information automatically, including:</p>
+    <ul>
+        <li>IP address</li>
+        <li>Device information</li>
+        <li>Operating system</li>
+        <li>App usage time and duration</li>
+        <li>General location data</li>
+    </ul>
 
-Our Privacy Policy explains how we collect and use your personal data to provide all of the services described below.
+    <h2>Cookies</h2>
+    <p>We do not use cookies directly. However, third-party services used in the app may use cookies. We do not control these cookies.</p>
 
-**Information Collection and Use**
+    <h2>Third-Party Services</h2>
+    <p>The app may use third-party services that may collect information used to identify you. These services have their own privacy policies.</p>
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+    <h2>Security</h2>
+    <p>We value your trust in providing your personal information. We strive to use commercially acceptable means to protect it. However, no method of transmission over the Internet is 100% secure.</p>
 
-**Log Data**
+    <h2>Links to Other Sites</h2>
+    <p>This app may contain links to other sites. We are not responsible for the content or privacy practices of those sites.</p>
 
-When you visit our App, our server automatically collects certain browser or device generated information, which may in some cases constitute personal data, including but not limited to:
+    <h2>Children’s Privacy</h2>
+    <p>This app does not address anyone under the age of 13. We do not knowingly collect personal information from children.</p>
 
-Your locations;
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Changes will be posted on this page.</p>
 
-Your IP address;
+    <p><strong>Effective date:</strong> January 1, 2025</p>
 
-Your date, time and duration of your visit;
+    <h2>Contact Us</h2>
+    <p>If you have any questions, contact us at:</p>
+    <p>Email: <a href="mailto:daohaiha889@gmail.com">daohaiha889@gmail.com</a></p>
 
-Your operating system;
+    <footer>
+        <p>&copy; 2025 Ninja Kenji. All rights reserved.</p>
+    </footer>
+</div>
 
-Other information about your device;
-
-How much of this information we collect depends on the type and settings of the device you use to access the Services.
-
-**Cookies**
-
-Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices.
-
-"Ninja Kenji" does not use these “cookies” explicitly. However, if you use the Third Party Services, you first have to accept their specific terms and conditions.This includes their cookie policies, which we have no control over. But if you do not use these services, no third-party cookies are installed on your device.
-
-**Security**
-
-While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
-
-**Links to Other Sites**
-
-The Services may include links that direct you to other websites or services whose privacy practices may differ from ours. If you submit information to any of those third party sites, your information is governed by their privacy policies, not this one. We encourage you to carefully read the privacy policy of any website you visit.
-
-**Children’s Privacy**
-
-The Services are not directed to children under 13 years of age. We do not knowingly collect personal information from children under 13 years of age. If we become aware that a child under 13 years of age has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us.
-
-**Changes to Our Privacy Policy**
-
-We may change this privacy policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by sending you an email notification. We encourage you to review our privacy policy whenever you use the Services to stay informed about our information practices and the ways you can help protect your privacy.
-
-This policy is effective as of 01-01-2025
-
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, please contact us at daohaiha889@gmail.com
+</body>
+</html>
